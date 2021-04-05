@@ -12,20 +12,20 @@
 - Complete thorough EDA to identify which variables you can use to profile the Twitterers
   - A lot of variables are poorly populated and will have to be discarded
 - Identify the most prolific / influential Twitterers
- - By message volume
- - By message retweet
- - How much are they tweeting about the Universities vs. other topics?
+  - By message volume
+  - By message retweet
+  - How much are they tweeting about the Universities vs. other topics?
 - Where are these Twitterers located?
   - For UChicago
- - For other universities
- - Do you see any relationship between university locations and Twitterers’ locations?
- - Visualize the relationships
+  - For other universities
+  - Do you see any relationship between university locations and Twitterers’ locations?
+  - Visualize the relationships
 - What distinguishes University of Chicago Twitterers vs Twitterers who tweet about other universities
   - Visualize the trends
 - What are the timelines of these tweets? Do you see significant peaks and valleys?
   - Do you see data collection gaps?
 - How unique are the messages for each of these universities?
- - Are they mostly unique? Or mostly people are just copy-pasting the same text?
- - You can use something like Jaccard similarity / Cosine Similarity / Simhash / Minhash to measure uniqueness / similarity
- - Visualize message duplication (for each university – not between the universities)
- - Please note: this is not a topic modeling (LDA / LSA) – but text similarity analysis.
+  - Are they mostly unique? Or mostly people are just copy-pasting the same text?
+  - You can use something like Jaccard similarity / Cosine Similarity / Simhash / Minhash to measure uniqueness / similarity
+  - Visualize message duplication (for each university – not between the universities)
+  - Please note: this is not a topic modeling (LDA / LSA) – but text similarity analysis.
