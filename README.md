@@ -16,7 +16,7 @@
  - By message retweet
  - How much are they tweeting about the Universities vs. other topics?
 - Where are these Twitterers located?
- - For UChicago
+  - For UChicago
  - For other universities
  - Do you see any relationship between university locations and Twitterers’ locations?
  - Visualize the relationships
