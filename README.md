@@ -1,4 +1,7 @@
 # Social-Media-Mining-using-BigData-Platforms
+
+![A-2807-Twitter-BBVA-1024x416](https://user-images.githubusercontent.com/66754032/113646934-738aef80-964f-11eb-91de-9d5ceb3635ad.jpg)
+
 ## Big Data Platforms Final Project (The University of Chicago, Physical Sciences Division)
 
 - The main objective of the project is to identify the profiles of Twitterers by analyzng 2TB+ of live tweets, who are tweeting about University of Chicago and compare them to the profiles of Twitterers who are tweeting about other universities. 
